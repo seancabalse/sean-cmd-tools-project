@@ -12,7 +12,7 @@ setuptools.setup(
     description="Package that rename all files that match a filter pattern in the target directory",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://vcs.bigcorp.xyz/devops/cmd_tools_project",
+    url="https://github.com/seancabalse/sean-cmd-tools-project.git",
     packages=setuptools.find_packages(),
     classifiers=[
     "Programming Language :: Python :: 3",
